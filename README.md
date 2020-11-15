@@ -3,10 +3,11 @@
 Live face-mask detection using MobileNet model
 
 ## Result 
+For the experiment, I get an *`accuracy`* for trainig ~78% and testing ~98%
 - **Accuracy**
-![acc_image](https://github.com/evanezcent/Face-Mask-Detection/blob/master/accuracy.png)
+<img src="/accuracy.png" width="300">
 - **Loss**
-![loss_image](https://github.com/evanezcent/Face-Mask-Detection/blob/master/lost.png)
+<img src="/lost.png" width="300">
 
 ## Dataset
 The dataset that I used is from geoboom to, but I will attach a download link [here](https://drive.google.com/drive/folders/1OGnsfAtcwghg50Jm-nb0B19ffaUoZeus?usp=sharing)
