@@ -8,7 +8,7 @@ For the experiment, I get an *`accuracy`* for trainig ~78% and testing ~98%
 <img src="/accuracy.png" width="500">
 
 - **Loss**
-<img src="/lost.png" width="500">
+<img src="/loss.png" width="500">
 
 ## Dataset
 The dataset that I used is from geoboom to, but I will attach a download link [here](https://drive.google.com/drive/folders/1OGnsfAtcwghg50Jm-nb0B19ffaUoZeus?usp=sharing)
