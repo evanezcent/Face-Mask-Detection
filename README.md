@@ -15,7 +15,7 @@ The dataset that I used is from geoboom to, but I will attach a download link [h
 
 ## To-do
 - Find out how to make camera can detect face when using **mask**
-- Train new model
+- Train new model, because *now model* is underfit
 - Find new dataset
 
 
