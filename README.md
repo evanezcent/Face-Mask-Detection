@@ -15,6 +15,8 @@ The dataset that I used is from geoboom to, but I will attach a download link [h
 
 ## To-do
 - Find out how to make camera can detect face when using **mask**
+- Train new model
+- Find new dataset
 
 
 > Inspired by : [geoboom](https://github.com/geoboom/facemask-workshop)
