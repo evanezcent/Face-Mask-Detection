@@ -1,6 +1,6 @@
 # Face-Mask-Detection
 
-Live face-mask detection using MobileNet model
+Live face-mask detection using CNN model
 
 ## Result 
 For the experiment, I get an *`accuracy`* for trainig ~94% and testing ~98%
