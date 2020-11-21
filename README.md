@@ -7,8 +7,8 @@ For the experiment, I get an *`accuracy`* for trainig ~94% and testing ~98%
 
 **Line Description** 
 
-`Blue` for **Training**
-`Green` for **Validation**
+- `Blue` for **Training**
+- `Green` for **Validation**
 
 - **Accuracy**
 <img src="/accuracy.png" width="500">
